@@ -1,5 +1,9 @@
 body{background-color: rgb(204, 208, 207);}
-h1 {color: rgb(73, 73, 163);}
-h2 {color: aquamarine;}
-img {border: 10px solid black;}
-p {text-decoration-color: blueviolet;text-decoration: double; text-align: center;}
+h1 {color: rgb(73, 73, 163);text-align: center;}
+h2 {color: aquamarine; text-align: center;}
+img {border: 10px solid black;height: 200px;margin-top: 15px; margin-bottom: 15px;}
+p {text-decoration-color: blueviolet;text-decoration: double; text-align: center;margin-left: 20%; margin-right: 20%;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
